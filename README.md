@@ -12,7 +12,7 @@ Jaguar is a modern Discord bot built to provide powerful moderation, utility, au
 
 ## Legal
 
-- **Terms of Service:** https://ktm4675-ux.github.io/jaguar-legal/terms.html
+- **Terms of Service:** https://ktm4675-ux.github.io/jaguar-legal/tos.html
 - **Privacy Policy:** https://ktm4675-ux.github.io/jaguar-legal/privacy.html
 
 ## Support
